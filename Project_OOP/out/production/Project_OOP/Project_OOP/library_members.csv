@@ -1,0 +1,3 @@
+memberId,name,membershipType,borrowedCount,role,password
+M001,Mintra,PREMIUM,0,MEMBER,1234
+LIB001,Librarian,PREMIUM,0,LIBRARIAN,admin123

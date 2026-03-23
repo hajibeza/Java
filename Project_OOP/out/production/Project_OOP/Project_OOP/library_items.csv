@@ -1,0 +1,5 @@
+itemType,itemId,title,author,isbn,price,status,returnDueDate,extra1,extra2,timesBorrowed,currentBorrowerId
+PhysicalBook,B002,How to code like pro,Saran,555-5555555,500.0,Available,,B2-15,,3,
+PhysicalBook,B003,Design Patterns,Gang of Four,978-0201633612,680.0,Available,,A3-22,,2,
+EBook,E002,Python Crash Course,Eric Matthes,978-1593279288,109.0,Available,,https://library.ebooks.com/python-crash.pdf,8.7,3,
+EBook,E003,JAVA BASIC,Saran eiei,878-4646744334,120.0,Available,,https://google.com,30.0,0,
